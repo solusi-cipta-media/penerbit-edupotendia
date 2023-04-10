@@ -104,6 +104,8 @@
                         <p>Gian Sugiana Sugara, Anandha Putri Rahimsyah, dkk</p>
                         <h6>Tebal Halaman :</h6>
                         <p>306 Halaman</p>
+                        <h6>Ukuran Buku :</h6>
+                        <p>14,8 x 21 CM</p>
                         <h6>ISBN :</h6>
                         <p class="fst-italic">Dalam Proses</p>
                         <h6>Harga :</h6>

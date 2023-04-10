@@ -43,8 +43,9 @@
                 <ul>
                     <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
                     <li><a class="nav-link scrollto" href="#about">Profil</a></li>
-                    <li><a class="nav-link scrollto" href="#penerbitan">Jasa Penerbitan</a></li>
                     <li><a class="nav-link scrollto" href="#katalog">Katalog Buku</a></li>
+                    <li><a class="nav-link scrollto" href="<?= base_url('bukubaru') ?>">Buku Baru</a></li>
+                    <li><a class="nav-link scrollto" href="#penerbitan">Jasa Penerbitan</a></li>
                     <li><a class="nav-link scrollto" href="#pricing">Harga</a></li>
                     <li><a class="nav-link scrollto" href="#footer">Kontak</a></li>
                 </ul>
@@ -248,7 +249,7 @@
             </div>
         </section>
 
-        <section id="details" class="details">
+        <!-- <section id="details" class="details">
             <div class="container">
                 <div class="section-title" data-aos="fade-up">
                     <h2>Edupotensia</h2>
@@ -279,7 +280,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
         <!-- ======= Pricing Section ======= -->
         <section id="pricing" class="pricing">

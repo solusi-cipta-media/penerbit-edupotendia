@@ -67,7 +67,7 @@
                 <div class="d-flex justify-content-between align-items-center">
                     <h2>Buku Baru</h2>
                     <ol>
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="<?= base_url('front') ?>">Home</a></li>
                         <li>Buku Baru</li>
                     </ol>
                 </div>

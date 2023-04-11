@@ -90,27 +90,30 @@
                 </div> -->
 
                 <div class="row content">
-                    <div class="col-md-4 mt-3" data-aos="fade-right">
+                    <div class="col-md-3 mt-2" data-aos="fade-right">
                         <img src="<?= base_url('assets/') ?>assets/img/buku2.png" class="img-fluid rounded" alt="">
                     </div>
-                    <div class="col-md-8 pt-4" data-aos="fade-up">
-                        <h6>Judul :</h6>
+                    <div class="col-md-8" data-aos="fade-up">
+                        <h6><strong>Judul :</strong></h6>
                         <p>
-                            <strong> Pulih dari Keputusasaan : Bagaimana Agar Baik-Baik Saja di Saat Kondisi Terpuruk</strong>
+                            Pulih dari Keputusasaan : Bagaimana Agar Baik-Baik Saja di Saat Kondisi Terpuruk
                         </p>
-                        <h6>Jenis :</h6>
+                        <h6><strong>Jenis :</strong></h6>
                         <p>Pengembangan Diri dan Motivasi</p>
-                        <h6>Penulis :</h6>
+                        <h6><strong>Penulis :</strong></h6>
                         <p>Gian Sugiana Sugara, Anandha Putri Rahimsyah, dkk</p>
-                        <h6>Tebal Halaman :</h6>
+                        <h6><strong>Tebal Halaman :</strong></h6>
                         <p>306 Halaman</p>
-                        <h6>Ukuran Buku :</h6>
+                        <h6><strong>Ukuran Buku :</strong></h6>
                         <p>14,8 x 21 CM</p>
-                        <h6>ISBN :</h6>
+                        <h6><strong>ISBN :</strong></h6>
                         <p class="fst-italic">Dalam Proses</p>
-                        <h6>Harga :</h6>
+                        <h6><strong>Harga :</strong></h6>
                         <p>Rp. 95,000</p>
-                        <h6 style="margin-top: 40px;">Sinopsis :</h6>
+                        <!-- <p>Semua orang pasti pernah ada dalam kondisi dimana ia merasa putus asa seolah-olah tidak ada lagi jalan keluar dari masalah yang membelenggunya. Dan ketika saat kita merasa dalam kondisi terpuruk, banyak solusi dan membuat kita bertahan dalam kondisi itu dengan melihat dan menyadari bahwa diri kita begitu berharga dan mampu melewati saat terberat dalam hidup. “Pulih Dari Keputuasaan” adalah kumpulan tulisan inspiratif yang memiliki hikmah agar kita bisa baik-baik saja di saat kondisi terpuruk. Tulisan dalam buku ini merupakan kisah-kisah para penulis dari berbagai latar belakang dan yang diharapkan dapat menjadi penyemangat agar kita tidak merasa sendiri dalam menghadapi berbagai persoalan hidup. Ada banyak cerita dibalik setiap perjuangan seseorang menghadapi tantangan dalam hidupnya yang melalui cerita dibaliknya ada banyak hikmah yang dapat dimaknai. </p> -->
+                    </div>
+                    <div class="col-md-12" data-aos="fade-up">
+                        <h6 style="margin-top: 40px;"><strong>Sinopsis :</strong></h6>
                         <p>Semua orang pasti pernah ada dalam kondisi dimana ia merasa putus asa seolah-olah tidak ada lagi jalan keluar dari masalah yang membelenggunya. Dan ketika saat kita merasa dalam kondisi terpuruk, banyak solusi dan membuat kita bertahan dalam kondisi itu dengan melihat dan menyadari bahwa diri kita begitu berharga dan mampu melewati saat terberat dalam hidup. “Pulih Dari Keputuasaan” adalah kumpulan tulisan inspiratif yang memiliki hikmah agar kita bisa baik-baik saja di saat kondisi terpuruk. Tulisan dalam buku ini merupakan kisah-kisah para penulis dari berbagai latar belakang dan yang diharapkan dapat menjadi penyemangat agar kita tidak merasa sendiri dalam menghadapi berbagai persoalan hidup. Ada banyak cerita dibalik setiap perjuangan seseorang menghadapi tantangan dalam hidupnya yang melalui cerita dibaliknya ada banyak hikmah yang dapat dimaknai. </p>
                     </div>
                 </div>

@@ -180,7 +180,7 @@
 
                 <div class="row g-0" data-aos="fade-left">
 
-                    <div class="col-lg-3 col-md-4">
+                    <div class="col-lg-2 col-md-3 m-3">
                         <div class="gallery-item" data-aos="zoom-in" data-aos-delay="100">
                             <a href="<?= base_url('assets/') ?>assets/img/gallery/buku4.png" class="gallery-lightbox">
                                 <img src="<?= base_url('assets/') ?>assets/img/gallery/buku4.png" alt="" class="img-fluid">
@@ -188,7 +188,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-3 col-md-4">
+                    <div class="col-lg-2 col-md-3 m-3">
                         <div class="gallery-item" data-aos="zoom-in" data-aos-delay="150">
                             <a href="<?= base_url('assets/') ?>assets/img/gallery/buku5.png" class="gallery-lightbox">
                                 <img src="<?= base_url('assets/') ?>assets/img/gallery/buku5.png" alt="" class="img-fluid">

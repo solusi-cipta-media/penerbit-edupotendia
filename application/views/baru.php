@@ -49,7 +49,7 @@
 
             <nav id="navbar" class="navbar">
                 <ul>
-                    <li><a class="nav-link scrollto" href="<?= base_url('front') ?>">Home</a></li>
+                    <li><a class="nav-link scrollto" href="<?= base_url('') ?>">Home</a></li>
                     <li><a class="nav-link scrollto active" href="<?= base_url('produk/pulihdarikeputusasaan') ?>">Buku Baru</a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
@@ -67,7 +67,7 @@
                 <div class="d-flex justify-content-between align-items-center">
                     <h2>Buku Baru</h2>
                     <ol>
-                        <li><a href="<?= base_url('front') ?>">Home</a></li>
+                        <li><a href="<?= base_url('') ?>">Home</a></li>
                         <li>Buku Baru</li>
                     </ol>
                 </div>

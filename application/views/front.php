@@ -6,8 +6,8 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
     <title>Edupotensia | Penerbit Buku Sahabat Penulis</title>
-    <meta content="" name="description">
-    <meta content="" name="keywords">
+    <meta content="Hadir bagi sahabat penulis yang mengalami kesulitan untuk bisa menerbitkan karyanya dan ingin menyebarkan ide dan karyanya kepada masyarakat luas" name="description">
+    <meta content="edupotensia, penerbit, buku, konseling, self help, self talk, counseling talk" name="keywords">
 
     <!-- Favicons -->
     <link href="<?= base_url('assets/') ?>assets/img/fav.png" rel="icon">

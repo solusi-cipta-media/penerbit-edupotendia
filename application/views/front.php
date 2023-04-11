@@ -44,7 +44,7 @@
                     <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
                     <li><a class="nav-link scrollto" href="#about">Profil</a></li>
                     <li><a class="nav-link scrollto" href="#katalog">Katalog Buku</a></li>
-                    <li><a class="nav-link scrollto" href="<?= base_url('bukubaru') ?>">Buku Baru</a></li>
+                    <li><a class="nav-link scrollto" href="<?= base_url('produk/pulihdarikeputusasaan') ?>">Buku Baru</a></li>
                     <li><a class="nav-link scrollto" href="#penerbitan">Jasa Penerbitan</a></li>
                     <li><a class="nav-link scrollto" href="#pricing">Harga</a></li>
                     <li><a class="nav-link scrollto" href="#footer">Kontak</a></li>
